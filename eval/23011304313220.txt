@@ -1,0 +1,49 @@
+
+
+ 3D Object Detection
+ <30 class>
+        cabinet : 0.174263 
+            bed : 0.674062 
+          chair : 0.221662 
+           sofa : 0.506395 
+          table : 0.383912 
+           door : 0.012108 
+      bookshelf : 0.065138 
+        picture : 0.017443 
+        counter : 0.431942 
+         blinds : 0.006579 
+           desk : 0.295262 
+        shelves : 0.102744 
+        curtain : 0.034018 
+        dresser : 0.170503 
+         pillow : 0.054015 
+         mirror : 0.002415 
+          books : 0.042920 
+  refridgerator : 0.244210 
+     television : 0.088870 
+          paper : 0.003481 
+          towel : 0.044830 
+            box : 0.049298 
+     whiteboard : 0.012680 
+         person : 0.221453 
+    night_stand : 0.180688 
+         toilet : 0.551127 
+           sink : 0.261999 
+           lamp : 0.064124 
+        bathtub : 0.261902 
+            bag : 0.075694 
+class30_average : 0.175191 
+
+
+ <10 class>
+        cabinet : 0.174263 
+            bed : 0.674062 
+          chair : 0.221662 
+           sofa : 0.506395 
+          table : 0.383912 
+           desk : 0.295262 
+        dresser : 0.170503 
+    night_stand : 0.180688 
+           sink : 0.261999 
+           lamp : 0.064124 
+class10_average : 0.293287 

@@ -1,0 +1,98 @@
+
+
+ 3D Object Detection
+ <30 class>
+        cabinet : 0.219739 
+            bed : 0.836231 
+          chair : 0.300904 
+           sofa : 0.624689 
+          table : 0.499947 
+           door : 0.028031 
+      bookshelf : 0.128410 
+        picture : 0.009401 
+        counter : 0.446084 
+         blinds : 0.000000 
+           desk : 0.429623 
+        shelves : 0.122709 
+        curtain : 0.031294 
+        dresser : 0.239680 
+         pillow : 0.076020 
+         mirror : 0.008915 
+          books : 0.050893 
+  refridgerator : 0.382608 
+     television : 0.085789 
+          paper : 0.001259 
+          towel : 0.040469 
+            box : 0.033933 
+     whiteboard : 0.023695 
+         person : 0.221453 
+    night_stand : 0.295353 
+         toilet : 0.652642 
+           sink : 0.268408 
+           lamp : 0.072926 
+        bathtub : 0.448897 
+            bag : 0.112042 
+class30_average : 0.223068 
+
+
+ <10 class>
+        cabinet : 0.219739 
+            bed : 0.836231 
+          chair : 0.300904 
+           sofa : 0.624689 
+          table : 0.499947 
+           desk : 0.429623 
+        dresser : 0.239680 
+    night_stand : 0.295353 
+           sink : 0.268408 
+           lamp : 0.072926 
+class10_average : 0.378750 
+
+
+ 3D Object Detection
+ <30 class>
+        cabinet : 0.219739 
+            bed : 0.836231 
+          chair : 0.300904 
+           sofa : 0.624689 
+          table : 0.499947 
+           door : 0.028031 
+      bookshelf : 0.128410 
+        picture : 0.009401 
+        counter : 0.446084 
+         blinds : 0.000000 
+           desk : 0.429623 
+        shelves : 0.122709 
+        curtain : 0.031294 
+        dresser : 0.239680 
+         pillow : 0.076020 
+         mirror : 0.008915 
+          books : 0.050893 
+  refridgerator : 0.382608 
+     television : 0.085789 
+          paper : 0.001259 
+          towel : 0.040469 
+            box : 0.033933 
+     whiteboard : 0.023695 
+         person : 0.221453 
+    night_stand : 0.295353 
+         toilet : 0.652642 
+           sink : 0.268408 
+           lamp : 0.072926 
+        bathtub : 0.448897 
+            bag : 0.112042 
+class30_average : 0.223068 
+
+
+ <10 class>
+        cabinet : 0.219739 
+            bed : 0.836231 
+          chair : 0.300904 
+           sofa : 0.624689 
+          table : 0.499947 
+           desk : 0.429623 
+        dresser : 0.239680 
+    night_stand : 0.295353 
+           sink : 0.268408 
+           lamp : 0.072926 
+class10_average : 0.378750 

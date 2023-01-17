@@ -1,0 +1,14 @@
+Test Command: 'python test.py'
+======================================Boot Time======================================
+Boot Time: 2022/12/23 17:18:25
+==================================System Information==================================
+System: Linux
+Node Name: myeongah
+Release: 5.8.0-43-generic
+Version: #49~20.04.1-Ubuntu SMP Fri Feb 5 09:57:56 UTC 2021
+Machine: x86_64
+Processor: x86_64
+CPU: Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz
+Memory total: 31.33GB
+GPU: b'GeForce RTX 2080 Ti'
+Pytorch Version: 1.7.0
